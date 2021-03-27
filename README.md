@@ -8,6 +8,8 @@ phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
 [This is my first projet in data science using multilple machine learning model](https://github.com/Marwen-93/marwen_weslati/blob/main/house-prices-beginner.ipynb)
 
 
-
 # Deep_Learnig
+## porject 1: Severstal: Steel Defect Detection
+
+[This is my second projet in deep learning using keras](https://www.kaggle.com/weslatimarwen/keras-model-acc-0-8)
 
