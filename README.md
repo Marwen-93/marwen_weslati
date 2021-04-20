@@ -18,7 +18,7 @@ Sreate a model that can estimate price of second hand car based on some informat
 # Deep_Learnig
 ## porject 1: Severstal: Steel Defect Detection
 
-![This is my second projet in deep learning using keras](https://www.kaggle.com/weslatimarwen/keras-model-acc-0-8)
+[This is my second projet in deep learning using keras](https://www.kaggle.com/weslatimarwen/keras-model-acc-0-8)
 
 ## Project 3: NLP with Disaster Tweets challenge
 
