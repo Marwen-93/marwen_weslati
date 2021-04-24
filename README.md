@@ -2,7 +2,7 @@
 Data Science & Artificial Intelligence Engineering<br>
 phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
 
-# Mchine learning 
+# Machine learning 
 
 ## project 1: House Prices - Advanced Regression Techniques on Kaggle 
 [This is my first project in data science using multiple machine learning model](https://github.com/Marwen-93/marwen_weslati/blob/main/house-prices-beginner.ipynb)
