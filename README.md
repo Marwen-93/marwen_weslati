@@ -10,13 +10,13 @@ phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
 ## project 2: Used car price  prediction in Tunisia
 [This second project starting from  scratch](https://github.com/Marwen-93/voiture_occasion)
 
-Create a model that can estimate the price of second-hand car based on some information -Scrap more than 4000 car data from automobile Tunisian website for a second-hand car using python and selenium -Clean the data and extract car name and model from the description -Optimize different model and find best parameter using grid search cv
+Create a model that can estimate the price of the second-hand car based on some information -Scrap more than 4000 car data from automobile Tunisian website for a second-hand car using python and selenium -Clean the data and extract car name and model from the description -Optimize different model and find the best parameter using grid search cv
 
 
 
 
 # Deep Learning
-## porject 1: Severstal: Steel Defect Detection
+## project 1: Severstal: Steel Defect Detection
 
 [This is my second project in deep learning using keras](https://www.kaggle.com/weslatimarwen/keras-model-acc-0-8)
 
