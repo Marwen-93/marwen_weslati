@@ -11,6 +11,16 @@ phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
 [This second project starting from  scratch](https://github.com/Marwen-93/voiture_occasion)
 
 Create a model that can estimate the price of the second-hand car based on some information -Scrap more than 4000 car data from automobile Tunisian website for a second-hand car using python and selenium -Clean the data and extract car name and model from the description -Optimize different model and find the best parameter using grid search cv
+## Project 3: Text Emotions Detection with Machine Learning 
+
+Using NLP and machine learning algorithms we can predict text or tweet  writer emotions 
+
+
+
+[jupyter notebook](https://github.com/Marwen-93/textemotiondetection/blob/main/textemotiondetectio.ipynb)
+
+
+[Data](https://github.com/Marwen-93/textemotiondetection/blob/main/data.txt)
 
 
 
