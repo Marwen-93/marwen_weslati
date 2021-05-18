@@ -1,5 +1,5 @@
 # Marwen Weslati
-Data Science & Artificial Intelligence Engineering<br>
+Data Science & Artificial Intelligence Engineer<br>
 phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
 
 # Machine learning 
