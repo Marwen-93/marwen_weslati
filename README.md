@@ -4,14 +4,13 @@ phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
 
 # Machine learning 
 
-## Project 1: House Prices - Advanced Regression Techniques on Kaggle 
-[This is my first project in data science using multiple machine learning model](https://github.com/Marwen-93/marwen_weslati/blob/main/house-prices-beginner.ipynb)
 
-## Project 2: Used car price  prediction in Tunisia
+
+## Project 1: Used car price  prediction in Tunisia
 [This second project starting from  scratch](https://github.com/Marwen-93/voiture_occasion)
 
 Create a model that can estimate the price of the second-hand car based on some information -Scrap more than 4000 car data from automobile Tunisian website for a second-hand car using python and selenium -Clean the data and extract car name and model from the description -Optimize different model and find the best parameter using grid search cv
-## Project 3: Text Emotions Detection with Machine Learning 
+## Project 2: Text Emotions Detection with Machine Learning 
 
 Using NLP and machine learning algorithms we can predict text or tweet  writer emotions 
 
