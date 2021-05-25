@@ -22,6 +22,8 @@ Using NLP and machine learning algorithms we can predict text or tweet  writer e
 [Data](https://github.com/Marwen-93/textemotiondetection/blob/main/data.txt)
 
 
+## Project 3: Home Credit Default Risk
+[Credit Risk](https://github.com/Marwen-93/home-credit-default-risk/blob/main/home-credit-default-risk.ipynb)
 
 
 # Deep Learning
