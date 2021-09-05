@@ -28,10 +28,13 @@ Using NLP and machine learning algorithms we can predict text or tweet  writer e
 
 # Deep Learning
 ## Project 1: Severstal: Steel Defect Detection
+Trianing the algorithm to localize and classie surface defects on a steel sheet.
 
 [CODE](https://www.kaggle.com/weslatimarwen/keras-model-acc-0-8)
 
 ## Project 3: NLP with Disaster Tweets challenge
+Build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.
+
 
 [CODE](https://www.kaggle.com/weslatimarwen/nlp-with-disaster-tweets-challenge)
 
