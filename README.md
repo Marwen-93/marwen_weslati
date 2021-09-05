@@ -16,26 +16,26 @@ Using NLP and machine learning algorithms we can predict text or tweet  writer e
 
 
 
-[jupyter notebook](https://github.com/Marwen-93/textemotiondetection/blob/main/textemotiondetectio.ipynb)
+[CODE](https://github.com/Marwen-93/textemotiondetection/blob/main/textemotiondetectio.ipynb)
 
 
-[Data](https://github.com/Marwen-93/textemotiondetection/blob/main/data.txt)
+[DATA](https://github.com/Marwen-93/textemotiondetection/blob/main/data.txt)
 
 
 ## Project 3: Home Credit Default Risk
-[Credit Risk](https://github.com/Marwen-93/home-credit-default-risk/blob/main/home-credit-default-risk.ipynb)
+[CODE](https://github.com/Marwen-93/home-credit-default-risk/blob/main/home-credit-default-risk.ipynb)
 
 
 # Deep Learning
 ## Project 1: Severstal: Steel Defect Detection
 
-[This is my second project in deep learning using keras](https://www.kaggle.com/weslatimarwen/keras-model-acc-0-8)
+[CODE](https://www.kaggle.com/weslatimarwen/keras-model-acc-0-8)
 
 ## Project 3: NLP with Disaster Tweets challenge
 
-[Natural Language Processing with Disaster Tweets](https://www.kaggle.com/weslatimarwen/nlp-with-disaster-tweets-challenge)
+[CODE](https://www.kaggle.com/weslatimarwen/nlp-with-disaster-tweets-challenge)
 
 
 ## Project 2: Landmarked Face Detection
-[Landmarked Face Detection](https://github.com/Marwen-93/landmarksfaceproject-/blob/main/README.md)
+[CODE](https://github.com/Marwen-93/landmarksfaceproject-/blob/main/README.md)
 this project is landmarked face detection by predict of 68 points:
