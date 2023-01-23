@@ -25,6 +25,10 @@ Using NLP and machine learning algorithms we can predict text or tweet  writer e
 ## Project 3: Home Credit Default Risk
 [CODE](https://github.com/Marwen-93/home-credit-default-risk/blob/main/home-credit-default-risk.ipynb)
 
+## Project 4: Predicting Used Car Prices in Tunisia: A Data Science Approach
+
+[CODE](https://github.com/Marwen-93/voiture_occasion)
+
 
 # Deep Learning
 ## Project 1: Severstal: Steel Defect Detection
