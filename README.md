@@ -26,7 +26,7 @@ Using NLP and machine learning algorithms we can predict text or tweet  writer e
 [CODE](https://github.com/Marwen-93/home-credit-default-risk/blob/main/home-credit-default-risk.ipynb)
 
 ## Project 4: Predicting Used Car Prices in Tunisia: A Data Science Approach
-
+Design and Implement a Data-Driven Model for Estimating the Prices of Second-Hand Cars in Tunisia - Utilize Python and Selenium to Scrape Over 4000 Car Data from Tunisian Automobile Websites - Perform Data Cleaning and Feature Extraction to Obtain Car Names and Models - Optimize Various Models and Identify Optimal Parameters using Grid Search Cross-Validation
 [CODE](https://github.com/Marwen-93/voiture_occasion)
 
 
