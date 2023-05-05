@@ -1,6 +1,13 @@
 # Marwen Weslati
-Data Science & Artificial Intelligence Engineer<br>
+Python Developer<br>
 phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
+
+# Cryptocurrency 
+
+
+## Project 1:REST API for generating valid cryptocurrency addresses and displaying them.
+[code](https://github.com/Marwen-93/cryptocurrency_adrees_api)
+
 
 # Machine learning 
 
