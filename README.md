@@ -7,7 +7,8 @@ phone:(+216 )54 665 680 email: marwenweslati@yahoo.com
 
 ## Project 1:REST API for generating valid cryptocurrency addresses and displaying them.
 [code](https://github.com/Marwen-93/cryptocurrency_adrees_api)
-## Project 1:my my portfolio.
+
+## Project 1:My Online CV.
 [code](https://github.com/Marwen-93/Marwen-93.github.io)
 
 
